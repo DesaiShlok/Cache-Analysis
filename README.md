@@ -53,6 +53,7 @@ Analysis of a 48KB matrix multiplication working set revealed a sharp "Capacity 
 ### 1. Build the Pin Tool
 ```bash
 make
-
-
+```
 *This Project Summary is AI generated, for deeper insights on the projects technical details reach out to me at sbd2150@columbia.edu*
+
+
